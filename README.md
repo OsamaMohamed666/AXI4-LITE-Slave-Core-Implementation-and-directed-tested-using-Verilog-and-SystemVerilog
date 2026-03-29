@@ -1,0 +1,2 @@
+# AXI4-LITE-Slave-Core-Implementation-and-directed-tested-using-Verilog-and-SystemVerilog
+This project presents the implementation and direct test verification AXI4-Lite Slave Core using Verilog RTL and a SystemVerilog-based testbench.  The design follows the AMBA AXI4-Lite protocol specifications, focusing on correct handshake behavior, channel independence, and timing-accurate data transfer between master and slave.
